@@ -1,4 +1,5 @@
 # Simple docker project that displays the content of the html page
+### Create docker image
 - use docker build -t hello .
-- this command will build the docker image called hello
+### Run the docker container
 - docker run --rm -it hello
